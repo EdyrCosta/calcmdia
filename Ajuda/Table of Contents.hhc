@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Bem-Vindo">
+		<param name="WindowName" value="Main">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Bem-Vindo">
+			<param name="Local" value="Help CalcMdia.htm">
+			<param name="WindowName" value="Main">
+			<param name="ImageNumber" value="27">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Conteúdo">
+		<param name="WindowName" value="Main">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Conteúdo">
+			<param name="Local" value="Conteúdo.htm">
+			<param name="WindowName" value="Main">
+			<param name="ImageNumber" value="21">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Calcular a média">
+			<param name="Local" value="cálcular a Média.htm">
+			<param name="WindowName" value="langref">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Exibir o modo calculo anual">
+			<param name="Local" value="Exibir o Modo Cálculo Anual.htm">
+			<param name="WindowName" value="langref">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Calcular a média anual">
+			<param name="Local" value="cálcular a Média Anual.htm">
+			<param name="WindowName" value="langref">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="exibir o modo calculo mensal">
+			<param name="Local" value="Exibir o Modo Cálculo Mensal.htm">
+			<param name="WindowName" value="langref">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Limpar Campos">
+			<param name="Local" value="Limpar Campos.htm">
+			<param name="WindowName" value="langref">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Finalizar o programa">
+			<param name="Local" value="Finalizar o Programa.htm">
+			<param name="WindowName" value="langref">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>

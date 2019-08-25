@@ -1,0 +1,30 @@
+[OPTIONS]
+Compatibility=1.1
+Compiled file=CalcHelp.chm
+Contents file=Table of Contents.hhc
+Default Window=Main
+Default topic=Help CalcMdia.htm
+Display compile progress=Yes
+Error log file=CalcLog.log
+Full-text search=Yes
+Index file=Index.hhk
+Language=0x416 Português (brasileiro)
+Title=Ajuda do cálculo de médias
+
+[WINDOWS]
+Main="Bem-Vindo ao CalcMdia","Table of Contents.hhc","Index.hhk","Conteúdo.htm",,,,,,0x2520,,0x307e,[157,14,650,516],0xd0890000,0x4400,,0,,,
+Langref="Ajuda do cálculo de médias",,"Table of contents",,,,,,,,,,,,,2,800,522,,
+
+
+[FILES]
+cálcular a Média Anual.htm
+cálcular a Média.htm
+Exibir o Modo Cálculo Anual.htm
+Exibir o Modo Cálculo Mensal.htm
+Finalizar o Programa.htm
+Help CalcMdia.htm
+Limpar Campos.htm
+Conteúdo.htm
+
+[MAP]
+#include Map.h

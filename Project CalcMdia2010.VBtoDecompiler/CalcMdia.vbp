@@ -1,0 +1,20 @@
+Type=Exe
+Startup="Form1"
+HelpFile="C:\Arquivos de programas\Microsoft Visual Studio\VB98\CalcMdia\Ajuda\CalcHelp.chm"
+Name="CalcMdia"
+Title="Project CalcMdia"
+ExeName32="Project CalcMdia2010"
+MajorVer=1
+MinorVer=0
+VersionCompanyName="Ciberzone"
+VersionLegalCopyright="Ciberzone Copyright"
+VersionProductName="Project CalcMdia"
+Description="Calculador de notas bimestrais e anuais"
+
+[VBto Converter]
+Link = http://www.vbto.net/
+Email = mailto:info@vbto.net
+Version = 2.48
+VersionDate = Sep 11 2010
+GenerationDate = 10/02/11
+GenerationTime = 10:21:29
